@@ -1,4 +1,4 @@
-Date,Close/Last,Volume,Open,High,Low
+date,close,volume,open,high,low,split,dividend,absoluteChange,percentChange
 04/11/2022,439.92,89770540,444.11,445,439.39
 04/08/2022,447.57,79272710,447.97,450.63,445.94
 04/07/2022,448.77,78097210,445.59,450.69,443.53
